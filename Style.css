@@ -1,0 +1,17 @@
+body {
+  background-color:whitesmoke;
+}
+a{
+    text-decoration:wavy;
+    font-style:Serif;
+}
+footer{
+
+        padding: 10px; /* Espacio arriba y abajo para ajustar el grosor */
+        background-color: #333;
+        color: #fff;
+}
+h1{
+    text-align:center;
+    color:black;
+}
